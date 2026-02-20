@@ -20,7 +20,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/tophub-scraper.git
+git clone https://github.com/lbmtl/tophub-scraper.git
 cd tophub-scraper
 ```
 
@@ -203,4 +203,4 @@ python tophub_service.py remove
 
 ---
 
-Made with ❤️ by [yourname](https://github.com/yourusername)
+Made with ❤️ by lbmtl
